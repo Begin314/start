@@ -1,0 +1,3 @@
+上传本地文件到库：git add filename
+为 上传的文件添加备注：git commit -m “备注名"
+登录框:git push origin master
